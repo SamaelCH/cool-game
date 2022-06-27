@@ -1,4 +1,6 @@
 # cool-game
+## Build
+### Linux
 1. If you haven't installed Cargo and Rust:
 
         $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
