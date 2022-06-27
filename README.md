@@ -22,5 +22,3 @@
        $ ./target/debug/cool-game
 
 5. Enjoy
-
-documentation can be found at CG.odt 
