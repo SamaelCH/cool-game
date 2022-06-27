@@ -10,7 +10,7 @@
 3. Build:
 
        $ cd cool-game
-       cargo build
+       $ cargo build
 
 4. Run:
 
